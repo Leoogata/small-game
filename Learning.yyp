@@ -36,6 +36,10 @@
   "name":"Learning",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"sprite_Cherry","path":"sprites/sprite_Cherry/sprite_Cherry.yy",},},
+    {"id":{"name":"sprite_Floor","path":"sprites/sprite_Floor/sprite_Floor.yy",},},
+    {"id":{"name":"sprite_Player","path":"sprites/sprite_Player/sprite_Player.yy",},},
+    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
