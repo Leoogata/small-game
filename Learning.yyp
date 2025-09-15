@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"Animation Curves","folderPath":"folders/Animation Curves.yy","name":"Animation Curves","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -35,6 +35,10 @@
   },
   "name":"Learning",
   "resources":[
+    {"id":{"name":"obj_Cherry","path":"objects/obj_Cherry/obj_Cherry.yy",},},
+    {"id":{"name":"obj_Floor","path":"objects/obj_Floor/obj_Floor.yy",},},
+    {"id":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},},
+    {"id":{"name":"obj_Spike","path":"objects/obj_Spike/obj_Spike.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"sprite_Cherry","path":"sprites/sprite_Cherry/sprite_Cherry.yy",},},
     {"id":{"name":"sprite_Floor","path":"sprites/sprite_Floor/sprite_Floor.yy",},},
